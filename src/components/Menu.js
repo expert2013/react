@@ -45,6 +45,7 @@ const CallButton = styled.button`
 		color: #fff;
 		font-size: 14px;
 		font-weight: 400;
+		border: none;
 
 `
 
